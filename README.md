@@ -1,0 +1,4 @@
+- Olá, sou Carlos Eduardo, conhecido como Kadu, sou um desenvolvedor fullstack especializado em Java no back-end e Javascript(React, Angular) no front-end.
+- Estou interessado em aumentar meus conhecimentos em minha área de atuação e que facilitarão a programação. 
+- Estou atualmente estudando Design Patterns e tecnologias DevOps.
+-
